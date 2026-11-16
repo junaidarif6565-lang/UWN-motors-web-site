@@ -1,0 +1,15 @@
+[
+  {
+    "id": "5f893c78-a1a3-4da3-9e05-22875d21b471",
+    "make": "toyota",
+    "model": "corolla",
+    "year": 1978,
+    "price": 47000,
+    "mileage": "55555",
+    "transmission": "auto",
+    "city": "Karachi",
+    "description": "",
+    "imageUrl": "/uploads/5f893c78-a1a3-4da3-9e05-22875d21b471.webp",
+    "createdAt": "2026-11-16T23:10:24.983Z"
+  }
+]
